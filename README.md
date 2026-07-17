@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:190019,100:2b0a3d&height=230&section=header&text=AN1KET.EXE&fontSize=52&fontColor=00fff5&animation=twinkling&fontAlignY=35&desc=%3E%20FULL%20STACK%20DEV%20%7C%20DATA%20SCIENCE%20%7C%20OPEN%20SOURCE&descAlignY=55&descSize=18&descColor=ff00e6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:190019,100:2b0a3d&height=230&section=header&text=ANIKET.EXE&fontSize=52&fontColor=00fff5&animation=twinkling&fontAlignY=35&desc=%3E%20FULL%20STACK%20DEV%20%7C%20DATA%20SCIENCE%20%7C%20OPEN%20SOURCE&descAlignY=55&descSize=18&descColor=ff00e6" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFF5&background=0D0221&center=true&vCenter=true&width=650&lines=%3E+Booting+aniket.dev...;%3E+Loading+Full+Stack+Modules;%3E+Compiling+AI+%2B+ML+Pipelines;%3E+System+Status%3A+OPEN_TO_WORK;%3E+Access+Granted." alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ff00e6?style=for-the-badge&labelColor=0d0221&logo=vercel&logoColor=00fff5)
+![Open to Hackathons](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ff00e6?style=for-the-badge&labelColor=0d0221&logo=vercel&logoColor=00fff5)
 ![Full Stack](https://img.shields.io/badge/ROLE-FULL_STACK_%7C_DATA_SCIENCE-00fff5?style=for-the-badge&labelColor=0d0221)
 
 <img src="https://komarev.com/ghpvc/?username=https-aniket06&color=ff00e6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0221" alt="Profile Views" />
