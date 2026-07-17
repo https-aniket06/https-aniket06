@@ -8,7 +8,7 @@
 
 <br/>
 
-![Open to Hackathons](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ff00e6?style=for-the-badge&labelColor=0d0221&logo=vercel&logoColor=00fff5)
+![Open to Hackathons](https://img.shields.io/badge/STATUS-OPEN_TO_HACKATHONS-ff00e6?style=for-the-badge&labelColor=0d0221&logo=vercel&logoColor=00fff5)
 ![Full Stack](https://img.shields.io/badge/ROLE-FULL_STACK_%7C_DATA_SCIENCE-00fff5?style=for-the-badge&labelColor=0d0221)
 
 <img src="https://komarev.com/ghpvc/?username=https-aniket06&color=ff00e6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0221" alt="Profile Views" />
@@ -44,7 +44,7 @@ const aniket: DevProfile = {
 
 ## 🧠 About Me
 
-> 🖥️ **Currently building:** MedQueue AI (healthcare + AI symptom checker) and a Ferrari-style web redesign
+> 🖥️ **Currently builded:** MedQueue AI (healthcare + AI symptom checker) and a Ferrari-style web redesign
 
 > 🤝 **Open to collaborate on:** Full stack apps and AI / data science projects
 
@@ -54,7 +54,7 @@ const aniket: DevProfile = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🩺 MedQueue AI
 
