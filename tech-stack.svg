@@ -47,7 +47,7 @@
   </g>
   <rect x="351" y="68" width="92" height="42" rx="21" ry="21" fill="#0d0221" stroke="#00fff5" stroke-width="1"/>
   <text x="397.0" y="94.0" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="600" fill="#00fff5">JSON</text>
-<text x="20" y="132" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="bold" fill="#ff00e6" letter-spacing="1">FRONTEND & DESIGN</text>
+<text x="20" y="132" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="bold" fill="#ff00e6" letter-spacing="1">FRONTEND &amp; DESIGN</text>
   <g filter="url(#glow)">
     <rect x="20" y="166" width="101" height="42" rx="21" ry="21" fill="none" stroke="#ff00e6" stroke-width="1.6" opacity="0.55">
       <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="1.4s" repeatCount="indefinite"/>
